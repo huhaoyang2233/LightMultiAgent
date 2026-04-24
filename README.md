@@ -118,7 +118,7 @@ python main.py
 
 ### 模块化认知循环
 
-![认知循环](https://github.com/huhaoyang2233/LightMultiAgent/blob/main/images/cognitive_cycle.png?raw=true)
+![认知循环](https://raw.githubusercontent.com/huhaoyang2233/LightMultiAgent/main/images/cognitive_cycle.png)
 
 框架采用四阶段认知循环（Coordinating → Planning → Executing → Reflecting）：
 
