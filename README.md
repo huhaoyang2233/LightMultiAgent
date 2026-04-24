@@ -87,7 +87,8 @@ python main.py
 
 ### 三阶段演变：从混乱到有序
 
-![三阶段演变](https://github.com/huhaoyang2233/LightMultiAgent/blob/main/images/stages.png?raw=true)
+<img width="3240" height="3156" alt="9" src="https://github.com/user-attachments/assets/d90ca118-ce55-4eaf-9501-0c2f40a5908f" />
+
 
 **问题识别**：传统多智能体系统存在三个典型问题：
 
@@ -118,7 +119,8 @@ python main.py
 
 ### 模块化认知循环
 
-![认知循环](https://raw.githubusercontent.com/huhaoyang2233/LightMultiAgent/main/images/cognitive_cycle.png)
+<img width="3240" height="3156" alt="2" src="https://github.com/user-attachments/assets/e6ad86ab-50f1-43f1-8025-8a4db4f7771e" />
+
 
 框架采用四阶段认知循环（Coordinating → Planning → Executing → Reflecting）：
 
@@ -149,7 +151,7 @@ python main.py
 
 ### 双向呼叫机制
 
-![呼叫机制](https://github.com/huhaoyang2233/LightMultiAgent/blob/main/images/calling_mechanism.png?raw=true)
+<img width="3431" height="3316" alt="5" src="https://github.com/user-attachments/assets/008eeac6-fdd8-4e97-bd22-4df4d5c144f2" />
 
 **主动呼叫（Active Calling）**：
 
@@ -190,7 +192,8 @@ tool_output = {
 
 ### 结构化上下文对齐
 
-![上下文对齐](https://github.com/huhaoyang2233/LightMultiAgent/blob/main/images/context_alignment.png?raw=true)
+<img width="3248" height="3212" alt="7" src="https://github.com/user-attachments/assets/95681629-6645-411e-8861-34f3365083f7" />
+
 
 **优化前（身份混乱）**：
 - 消息格式：`Yes, I think the stock will rise.`
@@ -212,7 +215,7 @@ tool_output = {
 
 ### Agent 系统提示词模板
 
-![Agent 系统提示词模板](https://github.com/huhaoyang2233/LightMultiAgent/blob/main/images/prompt_template.png?raw=true)
+<img width="4450" height="2496" alt="截屏2026-01-14 13 12 13_upscayl_4x_upscayl-standard-4x" src="https://github.com/user-attachments/assets/f72f2f54-6f41-43c9-8b1c-ac10a5364e5d" />
 
 框架采用结构化的系统提示词模板，包含五个核心模块：
 
