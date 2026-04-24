@@ -329,7 +329,7 @@ pip install -r requirements.txt
 # LLM 配置
 LLM_API_KEY=your-api-key
 LLM_BASE_URL=https://ark.cn-beijing.volces.com/api/v3
-LLM_MODEL_NAME=ep-m-20260227140447-bk2r6
+LLM_MODEL_NAME=your_api_key_here
 
 # 服务配置
 PORT=8083
