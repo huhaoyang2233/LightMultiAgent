@@ -87,7 +87,7 @@ python main.py
 
 ### 三阶段演变：从混乱到有序
 
-![三阶段演变](https://github.com/yourusername/multi-agent-chat-room/blob/main/docs/stages.png?raw=true)
+![三阶段演变](https://github.com/huhaoyang2233/LightMultiAgent/blob/main/images/stages.png?raw=true)
 
 **问题识别**：传统多智能体系统存在三个典型问题：
 
@@ -118,7 +118,7 @@ python main.py
 
 ### 模块化认知循环
 
-![认知循环](https://github.com/yourusername/multi-agent-chat-room/blob/main/docs/cognitive_cycle.png?raw=true)
+![认知循环](https://github.com/huhaoyang2233/LightMultiAgent/blob/main/images/cognitive_cycle.png?raw=true)
 
 框架采用四阶段认知循环（Coordinating → Planning → Executing → Reflecting）：
 
@@ -149,7 +149,7 @@ python main.py
 
 ### 双向呼叫机制
 
-![呼叫机制](https://github.com/yourusername/multi-agent-chat-room/blob/main/docs/calling_mechanism.png?raw=true)
+![呼叫机制](https://github.com/huhaoyang2233/LightMultiAgent/blob/main/images/calling_mechanism.png?raw=true)
 
 **主动呼叫（Active Calling）**：
 
@@ -190,7 +190,7 @@ tool_output = {
 
 ### 结构化上下文对齐
 
-![上下文对齐](https://github.com/yourusername/multi-agent-chat-room/blob/main/docs/context_alignment.png?raw=true)
+![上下文对齐](https://github.com/huhaoyang2233/LightMultiAgent/blob/main/images/context_alignment.png?raw=true)
 
 **优化前（身份混乱）**：
 - 消息格式：`Yes, I think the stock will rise.`
@@ -212,7 +212,7 @@ tool_output = {
 
 ### Agent 系统提示词模板
 
-![Agent 系统提示词模板](https://github.com/yourusername/multi-agent-chat-room/blob/main/docs/prompt_template.png?raw=true)
+![Agent 系统提示词模板](https://github.com/huhaoyang2233/LightMultiAgent/blob/main/images/prompt_template.png?raw=true)
 
 框架采用结构化的系统提示词模板，包含五个核心模块：
 
@@ -259,7 +259,7 @@ tool_output = {
 
 ### 动态上下文管理
 
-![动态上下文](https://github.com/yourusername/multi-agent-chat-room/blob/main/docs/dynamic_context.png?raw=true)
+![动态上下文](https://github.com/huhaoyang2233/LightMultiAgent/blob/main/images/dynamic_context.png?raw=true)
 
 **三阶段进化**：
 
